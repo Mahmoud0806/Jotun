@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "655638961921",
+    "project_id": "juton-47746",
+    "storage_bucket": "juton-47746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655638961921:android:9f25226979e759e129c500",
+        "android_client_info": {
+          "package_name": "com.aldrtechnology.jotun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655638961921-kffg9ql664d1l93g4nmejb0lmf9pgvm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aldrtechnology.jotun",
+            "certificate_hash": "66c783bc3f8508978d910b5342679a21e7a5c4ea"
+          }
+        },
+        {
+          "client_id": "655638961921-e5ub9hlccic3o7iuolipalq60emsgd9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jBAPLB1p85BQvXOCczyBcpmRJzihQtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655638961921-e5ub9hlccic3o7iuolipalq60emsgd9d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655638961921-q8fk4t9buqls0lugfiamvvddi5s31qdn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aldrtechnology.jotun"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
